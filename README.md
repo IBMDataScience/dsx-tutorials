@@ -36,7 +36,6 @@ A collection of tutorials, demos, and use cases for IBM Data Science Experience 
 
 ## DSX Demos from conferences<a name="demos"></a>
 
----
 
 - [Spark Summit West 2016 Demo - BlocPower Energy Use Analysis](https://github.com/IBMDataScience/SparkSummitDemo)
 - [Strata East 2016 - Restaurant Health Inspections](https://github.com/IBMDataScience/Strata2016)
