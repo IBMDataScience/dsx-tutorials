@@ -1,6 +1,5 @@
 # DSX Tutorials
 
----
 
 A collection of tutorials, demos, and use cases for IBM Data Science Experience http://datascience.ibm.com/
 
@@ -23,15 +22,12 @@ A collection of tutorials, demos, and use cases for IBM Data Science Experience 
 
 ## Getting Started <a name="getting-started"></a>
 
----
-
 - Check out the [Getting Started in DSX repository](https://github.com/IBMDataScience/getting-started)
 
 ---
 
 ## DSX Tutorials <a name="tuts"></a>
 
----
 - [Data Tidying in R](https://github.com/IBMDataScience/data-tidying-r)
 - [Word2Vec on Tweets](https://github.com/IBMDataScience/word2vec)
 - [2016 Election Analysis](https://github.com/IBMDataScience/election2016)
@@ -43,6 +39,7 @@ A collection of tutorials, demos, and use cases for IBM Data Science Experience 
 ---
 
 - [Spark Summit West 2016 Demo - BlocPower Energy Use Analysis](https://github.com/IBMDataScience/SparkSummitDemo)
+- [Strata East 2016 - Restaurant Health Inspections](https://github.com/IBMDataScience/Strata2016)
+- [World of Watson 2016 - From Lab to Production](https://github.com/IBMDataScience/wow-lab-to-production)
 - [Strata West 2017 - Hands on Lab](https://github.com/IBMDataScience/Strata2017)
--
--
+
