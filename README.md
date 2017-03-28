@@ -4,7 +4,7 @@
 A collection of tutorials, demos, and use cases for IBM Data Science Experience http://datascience.ibm.com/
 
 #### Connect with us:
-- Join the DSX community [in our Slack team](dsxcommunity.slack.com)
+- Join the DSX community [in our Slack team](https://dsxcommunity.slack.com/)
 - Send your feedback or product suggestions to the [DSX uservoice page](https://datascix.uservoice.com/)
 - Say hi on [Twitter :-)](https://twitter.com/IBMDataScience)
 
