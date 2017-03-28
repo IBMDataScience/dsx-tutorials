@@ -28,7 +28,7 @@ A collection of tutorials, demos, and use cases for IBM Data Science Experience 
 
 ## DSX Tutorials <a name="tuts"></a>
 
-- [Data Tidying in R](https://github.com/IBMDataScience/data-tidying-r)
+- [Data Tidying in R](https://github.com/IBMDataScience/dsx-tutorials/tree/master/data-tidying-r)
 - [Word2Vec on Tweets](https://github.com/IBMDataScience/word2vec)
 - [2016 Election Analysis](https://github.com/IBMDataScience/election2016)
 
