@@ -29,8 +29,13 @@ A collection of tutorials, demos, and use cases for IBM Data Science Experience 
 ## DSX Tutorials <a name="tuts"></a>
 
 - [Data Tidying in R](https://github.com/IBMDataScience/dsx-tutorials/tree/master/data-tidying-r)
+    > Learn how to clean up your data with R in a Jupyter notebook
 - [Word2Vec on Tweets](https://github.com/IBMDataScience/word2vec)
+    >Hands on lab instructions to build Spark-based machine learning models for capturing word meanings
 - [2016 Election Analysis](https://github.com/IBMDataScience/election2016)
+    > In this study, we use social media data (specifically Twitter) to provide insights on each candidate's popularity, tweeting patterns, and most common topics. Additionally, we attempt to model and predict the success of a new candidate's tweet.
+- [Twitter Analysis using DashDB, Insights for Twitter, and DSX](https://github.com/IBM/dsx-twitter-auto-analysis)
+    >Code for a Cognitive Developer Journey that uses IBM's Data Science Experience. This code demonstrates how to use Jupyter Notebooks to analyze Twitter data and create data visualizations
 
 ---
 
