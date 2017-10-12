@@ -1,3 +1,3 @@
 # Use case 1
 
-[img](use1.jpeg)
+![alt-text](use1.jpeg)
