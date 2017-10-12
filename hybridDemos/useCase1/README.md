@@ -1,3 +1,3 @@
 # Use case 1
 
-[img](use1.jpg)
+[img](use1.jpeg)
